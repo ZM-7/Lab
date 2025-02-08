@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Lab The Match Up</title>
-    <link>https://zm-7.github.io/posts/</link>
+    <link>https://zm-7.github.io/Lab/posts/</link>
     <description>Recent content in Posts on Lab The Match Up</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Feb 2025 00:07:52 +0100</lastBuildDate>
-    <atom:link href="https://zm-7.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zm-7.github.io/Lab/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello</title>
-      <link>https://zm-7.github.io/posts/hello/</link>
+      <link>https://zm-7.github.io/Lab/posts/hello/</link>
       <pubDate>Thu, 06 Feb 2025 00:07:52 +0100</pubDate>
-      <guid>https://zm-7.github.io/posts/hello/</guid>
-      <description>&lt;p&gt;aight ok&lt;/p&gt;</description>
+      <guid>https://zm-7.github.io/Lab/posts/hello/</guid>
+      <description>&lt;p&gt;bro shit not working&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
